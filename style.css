@@ -2,8 +2,15 @@ body {
     background-color: dimgrey;
     display: flex;
     justify-content: center;
+    
 }
 
 #name {
     border-style: dotted;
+}
+
+#explanation {
+    display: flex;
+    background-color: blanchedalmond;
+    border-style: 4px, dashed;
 }
