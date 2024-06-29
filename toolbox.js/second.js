@@ -1,6 +1,0 @@
-// import { spinner } from "../index"; 
-
-
-
-
-
