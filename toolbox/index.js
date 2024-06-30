@@ -13,7 +13,6 @@ async function spinner() {
         const foundation = data.sprites.front_default;
         const stage = document.getElementById("star");
         stage.src = foundation; 
-        stage.style.display = "block";
     }
     catch(error) {
         console.error(error);
