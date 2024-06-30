@@ -8,9 +8,3 @@ body {
 #name {
     border-style: dotted;
 }
-
-#explanation {
-    display: flex;
-    background-color: blanchedalmond;
-    border-style: 4px, dashed;
-}
